@@ -1,4 +1,4 @@
-# Evidence Synthesis Hacktober
+# Evidence Synthesis Hacktoberfest
 
 This month long event is part of the [Evidence Synthesis Hackathon](https://www.eshackathon.org/) series, which aim to to bring together interested researchers, practitioners and coders to discuss and develop new Open Source technologies for Evidence Synthesis (ES) applications. Over the course of October, maintainers of GitHub repositories related to Evidence Synthesis are encouraged to mark issues/feature requests using a distinct label, so that anyone interested in contributing can see all available starting points from across the range of evidence synthesis packages.
 
